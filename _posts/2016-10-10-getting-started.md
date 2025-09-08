@@ -11,7 +11,7 @@ image: city-1.jpg
 
 This is a placeholder for the description of the venue.
 
-![alt text]([https://user-images.githubusercontent.com/8409329/32801138-33a72030-c94a-11e7-8a62-6184e6df5a8f.png "Millennial Demo Image")
+![image]([https://user-images.githubusercontent.com/8409329/32801138-33a72030-c94a-11e7-8a62-6184e6df5a8f.png "Millennial Demo Image")
 
 ## Notable features
 
