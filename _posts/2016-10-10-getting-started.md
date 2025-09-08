@@ -11,7 +11,7 @@ image: city-1.jpg
 
 This is a placeholder for the description of the venue.
 
-![image]([https://bisutti.com.br/wp-content/uploads/2024/11/zero-onze-1-1.webp)
+![image2]([https://bisutti.com.br/wp-content/uploads/2024/11/zero-onze-1-1.webp)
 
 ## Notable features
 
