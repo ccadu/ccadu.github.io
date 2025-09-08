@@ -19,4 +19,4 @@ This is a placeholder for the description of the venue.
 
 ## License
 
-Open sourced under the [MIT license](https://github.com/LeNPaul/Millennial/blob/gh-pages/LICENSE.md).
+Open-sourced under the [MIT license](https://github.com/LeNPaul/Millennial/blob/gh-pages/LICENSE.md).
